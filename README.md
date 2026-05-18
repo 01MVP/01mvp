@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://01mvp.com">
-    <img src="./assets/01mvp-logo-dark.svg" alt="01MVP" width="260" />
+    <img src="./assets/01mvp-logo-light.svg" alt="01MVP" width="260" />
   </a>
 </p>
 
