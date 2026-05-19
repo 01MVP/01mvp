@@ -4,8 +4,6 @@
   </a>
 </p>
 
-<h1 align="center">01MVP</h1>
-
 <p align="center">
   <strong>从想法到第一个用户 / From idea to the first user</strong>
 </p>
